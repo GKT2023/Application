@@ -1,1 +1,2 @@
-# Application adding developer B story
+Application adding developer B story
+ApplicationAdding developer A story
